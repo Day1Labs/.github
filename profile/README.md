@@ -1,9 +1,3 @@
-<div align="center">
-  <p><strong>Building the next generation of creative tools.</strong></p>
-</div>
-
----
-
 ### 📸 [YOYO Camera](https://github.com/Day1Labs/YOYO-Camera)
 <img src="https://day1-labs.com/img/yoyo-icon.png" alt="YOYO Camera Logo" width="100" align="right">
 
