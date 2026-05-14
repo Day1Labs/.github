@@ -1,0 +1,25 @@
+profile/README.md
+  c19731baeb03e4e6 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "1d47519e746337d228f988721c0e459856eb27b9",
+  "prompts": {
+    "c19731baeb03e4e6": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-6ac727c2-e434-4d2c-bec5-d61c29f296de",
+        "model": "default"
+      },
+      "human_author": "Y2 <yuanyan.cao@gmail.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
